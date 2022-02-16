@@ -1,0 +1,1 @@
+import{_ as s,l as t}from"./index.6ce21721.js";import{d as o,q as _,o as a,l as n}from"./vendor.1f8f89c2.js";const c=["src"],l=o({setup(d){const{VITE_PUBLIC_PATH:e}=t(),r=_(`${e}html/button.html`);return(f,m)=>(a(),n("iframe",{src:r.value,frameborder:"0",class:"iframe"},null,8,c))}});var u=s(l,[["__scopeId","data-v-33b1d999"]]);export{u as default};
